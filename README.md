@@ -1,6 +1,6 @@
 # Criterion-Conditional-In-Context-Learning
 
-## For reviewer ByDF Q3: Evaluation of Multiple Criteria
+## For reviewer scc8 W1: Concerns about Fine-Tuning and ByDF Q3: Evaluation of Multiple Criteria
 
 <img width="647" height="185" alt="table1" src="https://github.com/user-attachments/assets/3ebfe2bc-1393-46d2-8dd1-ac146ec741b2" />
 
