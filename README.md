@@ -3,10 +3,8 @@
 ## For reviewer ByDF Q3: Evaluation of Multiple Criteria
 
 <img src="./Evaluation of Multiple Criteria/table1.png" width="647" height="185">
-<img width="811" height="216" alt="table2" src="https://github.com/user-attachments/assets/79108325-64bb-4d1b-9249-85afa5d60f27" />
-<img width="815" height="220" alt="table3" src="https://github.com/user-attachments/assets/5b05226c-71f4-4f6e-8bb6-985aaf223866" />
-
-
+<img width="811" height="216" src="./Evaluation of Multiple Criteria/table1.png">
+<img width="815" height="220" src="./Evaluation of Multiple Criteria/table1.png">
 
 ## For reviewer ByDF Q4:  Reasons for Failure Prediction
 
