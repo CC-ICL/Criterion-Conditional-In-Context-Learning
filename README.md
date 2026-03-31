@@ -2,7 +2,7 @@
 
 ## For reviewer ByDF Q3: Evaluation of Multiple Criteria
 
-<img width="1022" height="311" alt="Evaluation of MCT under 3-criteria setting" src="https://github.com/user-attachments/assets/891e1160-11ab-4781-82da-cdcebb896397" />
+<img width="681" height="207" alt="Evaluation of MCT under 3-criteria setting" src="https://github.com/user-attachments/assets/891e1160-11ab-4781-82da-cdcebb896397" />
 
 <img width="1281" height="364" alt="Cross-domain generalization of MCT under the 3-criteria setting" src="https://github.com/user-attachments/assets/0b8c91e6-813a-486e-b171-1942fd10ee0b" />
 
