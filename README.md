@@ -2,11 +2,12 @@
 
 ## For reviewer ByDF Q3: Evaluation of Multiple Criteria
 
-<img width="647" height="185" alt="table1" src="https://github.com/user-attachments/assets/3ebfe2bc-1393-46d2-8dd1-ac146ec741b2" />
+<img width="1022" height="311" alt="Evaluation of MCT under 3-criteria setting" src="https://github.com/user-attachments/assets/891e1160-11ab-4781-82da-cdcebb896397" />
 
-<img width="811" height="216" alt="table2" src="https://github.com/user-attachments/assets/f78f3b94-2b72-4b70-bbfe-3f32bf171f22" />
+<img width="1281" height="364" alt="Cross-domain generalization of MCT under the 3-criteria setting" src="https://github.com/user-attachments/assets/0b8c91e6-813a-486e-b171-1942fd10ee0b" />
 
-<img width="815" height="220" alt="table3" src="https://github.com/user-attachments/assets/2339f8ff-c17c-46a9-9915-71770ff8c30e" />
+<img width="1282" height="354" alt="Generalization from 3-criteria training to 2-criteria evaluation" src="https://github.com/user-attachments/assets/d2eac6c6-726d-4cea-b6fa-26f6e6dd8ae1" />
+
 
 ## For reviewer ByDF Q4:  Reasons for Failure Prediction
 
