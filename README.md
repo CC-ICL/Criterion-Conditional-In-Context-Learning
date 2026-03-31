@@ -22,8 +22,8 @@ The results demonstrate Dual Generalization. Not only does the model retain high
 
 We provide a detailed comparison of the model outputs to visualize how MCT improves the interpretability and logic of the decision-making process.
 
-Base Model Behavior: The reasoning often fails to incorporate the task-specific constraints provided in the support set. It tends to generate generic descriptions based solely on the query image.
+- Base Model Behavior: The reasoning often fails to incorporate the task-specific constraints provided in the support set. It tends to generate generic descriptions based solely on the query image.
 
-MCT-Trained Model Behavior: The MCT-trained model actively conditions its reasoning on the support set, using it as a dynamic reference to calibrate decision boundaries for each specific task. 
+- MCT Model Behavior: The MCT-trained model actively conditions its reasoning on the support set, using it as a dynamic reference to calibrate decision boundaries for each specific task. 
 <img width="837" height="583" alt="Question" src="https://github.com/user-attachments/assets/599c71b2-8593-4d47-adf2-e2fcf429677c" />
 
