@@ -11,6 +11,4 @@
 
 ## For reviewer ByDF Q4:  Reasons for Failure Prediction
 
-<img width="1255" height="856" alt="COT case" src="https://github.com/user-attachments/assets/86477331-73a1-4b25-b1f2-d4e7f20a8b23" />
-
-
+<img width="1255" height="816" alt="COT case" src="https://github.com/user-attachments/assets/a4d36d11-3fc8-47ef-89bb-a2a67bc58f19" />
